@@ -8,4 +8,4 @@ A notebook submission to the 2020 EarthCube Annual Meeting:
 
 To load an interactive notebook via binder, visit https://mybinder.org/v2/gh/chrishavlin/yt_velmodel_vis/ecubeNtbook?filepath=notebooks%2FNotebook_3DseismicVis.ipynb
 
-To view a static rendering of this notebook, visit https://github.com/chrishavlin/yt_velmodel_vis/blob/ecubeNtbook/notebooks/Notebook_3DseismicVis.ipynb
+To view a static rendering of this notebook, visit https://nbviewer.jupyter.org/github/earthcube2020/ec20_havlin_etal/blob/master/notebook/Notebook_3DseismicVis.ipynb
