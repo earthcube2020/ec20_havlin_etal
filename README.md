@@ -1,4 +1,4 @@
-## Notebook_3DseismicVis.ipynb
+## ec20_havlin_etal.ipynb
 
 A notebook submission to the 2020 EarthCube Annual Meeting:
 
